@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1, DESCARGA LISTAS M3U
-http://prueba.ervikempresa.com/lista.mp4
 #EXTINF:-1,1025 MULTIPREMIER
 http://160.20.165.245:8000/play/a00b/index.m3u8
 #EXTINF:-1,1026 MULTICINEMA
